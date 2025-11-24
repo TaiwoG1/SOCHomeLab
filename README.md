@@ -23,10 +23,12 @@ This project involved the design, implementation, and execution of a controlled 
 <br />
 
 - <b2> Environment Setup: Configured an isolated virtual network with Kali Linux and Windows 10 VMs. Deployed Splunk Enterprise, a Splunk Universal Forwarder on the Windows client, and Microsoft Sysmon with a robust configuration to ensure granular event logging. A dedicated index=endpoint was established in Splunk for centralized endpoint telemetry. </b2>
-  <p align="center">
-  Splunk indexes page <br/>
+
 
   <img width="393" height="344" align = "center" alt="create new index endpoint" src="https://github.com/user-attachments/assets/d1856be7-f170-49c5-ba32-e2d9651496ba" />
+  <img width="960" height="443" alt="search new index on splunk1" src="https://github.com/user-attachments/assets/6c664cee-edde-4781-9271-091910a82303" />
+  <p align="center">
+  Splunk indexes page <br/>
 
   <br />
   </p>
