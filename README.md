@@ -26,6 +26,8 @@ This project involved the design, implementation, and execution of a controlled 
   <p align="center">
   Splunk indexes page <br/>
   <img src="https:" height="80%" width="80%" alt="Splunk indexes page"/>
+  <img width="393" height="344" alt="create new index endpoint" src="https://github.com/user-attachments/assets/d1856be7-f170-49c5-ba32-e2d9651496ba" />
+/>
   <br />
   </p>
 - <b2> Attack Execution: </b2>
