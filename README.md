@@ -75,11 +75,6 @@ This project involved the design, implementation, and execution of a controlled 
   <br> Splunk search results showing Sysmon logs of TestMal.pdf.exe<br/>
   <br />
   </p>
-  <p align="center">
-  Splunk search results showing network connections from the malware (ipconfig command)<br/>
-  <img src="https:" height="80%" width="80%" alt="Splunk search results showing network connections from the malware (ipconfig command)"/>
-  <br />
-  </p>
 <br />
 
 
